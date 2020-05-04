@@ -9,4 +9,4 @@ toggled by pressing a button of the same color.
 The game was ported by Coleco as a ColecoVision launch title in 1982,
 then later to the Intellivision and Atari 2600.
 
-https://upload.wikimedia.org/wikipedia/en/1/1b/ARC_Mouse_Trap.png
+https://en.wikipedia.org/wiki/Mouse_Trap_(video_game)
